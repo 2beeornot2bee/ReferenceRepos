@@ -1,0 +1,3 @@
+[submodule "CCAM"]
+	path = CCAM
+	url = https://github.com/CVI-SZU/CCAM.git
